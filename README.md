@@ -41,7 +41,7 @@ responsive across mobile, tablet, and desktop.
 ## 📸 Screenshots
 
 > Add screenshots here:
-> ![Homepage]("C:\Users\ADMIN\OneDrive\Pictures\Screenshots\Restaurant-website-homepage.png")
+> ![Homepage]()
 > ![Menu Section](<img width="1883" height="906" alt="Food-Menu" src="https://github.com/user-attachments/assets/39f277fd-05d5-4ad0-bbdc-7ad161ac7e99" />
 )
 > ![Testimonials](<img width="1872" height="907" alt="Testimonials" src="https://github.com/user-attachments/assets/ab9c50c0-10f3-4002-91bf-7e09d028e138" />
@@ -58,7 +58,7 @@ cd restaurant-website
 open "Restaurant Website project/index.html"
 ```
 
-Or simply visit the [Live Demo](restaurant-website-07.netlify.app)
+Or simply visit the [Live Demo](https://restaurant-website-07.netlify.app/)
 
 ## 📄 License
 
