@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Overview<img width="1887" height="962" alt="Restaurant-website-homepage" src="https://github.com/user-attachments/assets/4619bc93-02de-45f1-b320-b7a42bf1ed5e" />
+## 📌 Overview
 
 
 A modern restaurant website built to demonstrate frontend development skills.
@@ -49,7 +49,6 @@ responsive across mobile, tablet, and desktop.
 > ![Testimonials](<img width="1872" height="907" alt="Testimonials" src="https://github.com/user-attachments/assets/eae925de-9483-4583-a28c-4d6c6ef3fddf" />
 )
 > ![Contact Details](<img width="1880" height="897" alt="Contact-Details" src="https://github.com/user-attachments/assets/5924292d-3dcb-4cd0-8a14-4f55c1c2601c" />
-
 )
 
 ## 🚀 How to Run
