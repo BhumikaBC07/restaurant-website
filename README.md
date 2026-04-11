@@ -1,48 +1,60 @@
-🍽️ Restaurant Website – Responsive Frontend Project
-This is a modern and fully responsive Restaurant Website built using HTML, CSS, and JavaScript (jQuery). The website presents a clean and engaging design with smooth interactions, multiple sections, and a complete restaurant-style layout.
+# 🍽️ Restaurant Website
 
-🚀 Features
-✅ Responsive Design
-Works smoothly on desktops, tablets, and mobile devices.
+> A fully responsive restaurant website with smooth animations,
+> a complete food menu, and a functional contact form layout.
 
-✅ Modern Navigation Bar
-Hamburger menu for mobile
-Smooth transitions and animations
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-brightgreen)](https://[your-netlify-link].netlify.app)
 
-✅ Showcase / Hero Section
-Beautiful banner with a call-to-action button.
+---
 
-✅ About Section
-Animated text and image for a professional look.
+## 📌 Overview
 
-✅ Food Categories
-Hover effects with overlay and links to learn more.
+A modern restaurant website built to demonstrate frontend development skills.
+Features a complete multi-section layout including a hero banner,
+interactive food menu, testimonials, and a contact form — all fully
+responsive across mobile, tablet, and desktop.
 
-✅ Full Food Menu
-Circular food images with description and price.
+## ✨ Features
 
-✅ Testimonials
-Customer reviews with star ratings.
+- Responsive design — works on all screen sizes
+- Hamburger navigation menu for mobile devices
+- Hero section with call-to-action button
+- Food categories with hover overlay effects
+- Circular food menu with prices and descriptions
+- Customer testimonials with star ratings
+- Contact form layout with name, email and message fields
+- Smooth scrolling via jQuery animation
 
-✅ Contact Us Form
-Form layout with name, email, and message fields.
+## 🛠️ Tech Stack
 
-✅ Smooth Scrolling
-Implemented using jQuery animation for a fluid experience.
+| Layer    | Technology              |
+|----------|------------------------|
+| Markup   | HTML5                  |
+| Styling  | CSS3 (Flexbox, Grid)   |
+| Scripts  | JavaScript, jQuery     |
+| Hosting  | Netlify (free tier)    |
 
-🧰 Technologies Used
-* HTML5 – Page structure
-* CSS3 – Styling, layout & animations
-* JavaScript (jQuery) – Smooth scrolling
+## 📸 Screenshots
 
-📁 Folder Structure
-restaurant-website/
-│── index.html
-│── style.css
-│── app.js
-│── images/  (optional if you add your own)
+> Add screenshots here:
+> ![Homepage](./screenshots/homepage.png)
+> ![Menu Section](./screenshots/menu.png)
 
-🎯 Project Purpose
-This project was created to demonstrate frontend development skills including layout design, responsive UI, animations, and clean HTML/CSS structure. It is ideal for portfolio showcasing and beginner-to-intermediate web development practice.
-Font Awesome – Icons
-Google Fonts (Poppins) – Typography
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/BhumikaBC07/restaurant-website
+cd restaurant-website
+# Open index.html in your browser
+open "Restaurant Website project/index.html"
+```
+
+Or simply visit the [Live Demo](https://[your-link].netlify.app)
+
+## 📄 License
+
+MIT — feel free to use and modify.
