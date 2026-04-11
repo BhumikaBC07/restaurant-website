@@ -39,18 +39,6 @@ responsive across mobile, tablet, and desktop.
 | Scripts  | JavaScript, jQuery     |
 | Hosting  | Netlify (free tier)    |
 
-## 📸 Screenshots
-
-> Add screenshots here:
-> ![Homepage](<img width="1887" height="962" alt="Restaurant-website-homepage" src="https://github.com/user-attachments/assets/ce3098b2-317d-4295-b51b-b66c360d4b65" />
-)
-> ![Menu Section](<img width="1883" height="906" alt="Food-Menu" src="https://github.com/user-attachments/assets/cca8c839-47ab-4a40-9ad4-7642ef44ee09" />
-)
-> ![Testimonials](<img width="1872" height="907" alt="Testimonials" src="https://github.com/user-attachments/assets/eae925de-9483-4583-a28c-4d6c6ef3fddf" />
-)
-> ![Contact Details](<img width="1880" height="897" alt="Contact-Details" src="https://github.com/user-attachments/assets/5924292d-3dcb-4cd0-8a14-4f55c1c2601c" />
-)
-
 ## 🚀 How to Run
 
 ```bash
