@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-brightgreen)](https://restaurant-website-07.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-brightgreen)](restaurant-website-023.netlify.app)
 
 ---
 
@@ -48,7 +48,7 @@ cd restaurant-website
 open "Restaurant Website project/index.html"
 ```
 
-Or simply visit the [Live Demo](https://restaurant-website-07.netlify.app/)
+Or simply visit the [Live Demo](restaurant-website-023.netlify.app)
 
 ## 📄 License
 
