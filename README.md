@@ -37,7 +37,7 @@ responsive across mobile, tablet, and desktop.
 | Markup   | HTML5                  |
 | Styling  | CSS3 (Flexbox, Grid)   |
 | Scripts  | JavaScript, jQuery     |
-| Hosting  | Netlify (free tier)    |
+| Hosting  | Vercel (free tier)    |
 
 ## 🚀 How to Run
 
